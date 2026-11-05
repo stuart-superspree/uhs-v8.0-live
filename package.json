@@ -1,0 +1,14 @@
+{
+  "name": "sgh-wayfinding-v7-8",
+  "version": "7.8.0",
+  "private": true,
+  "description": "Southampton General Hospital wayfinding app v7.8 (RouteLoop). Static files in public/, served by server.js. No packages needed.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "author": "Stu (Superspree)",
+  "license": "UNLICENSED"
+}
